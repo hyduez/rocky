@@ -1,1 +1,11 @@
 2026-04-16T08:52:26-05:00	first message into journal with twtxt format!
+2026-04-16T10:31:43-05:00	why i'd prefer to use a twtxt-specification file instead of a markdown one\? cuz i feel like journaling must feel more organic, like micro-blogging, not writing a documentation
+2026-04-16T10:32:22-05:00	+ to it your time writing journal.md is reflected as "writing docs" on hackatime, so i dont like that too
+2026-04-16T10:33:25-05:00	and the strongest point to do it is because i dont have to open an editor or care about making it looks pretty, because it's just a text file with time and next by a comment
+2026-04-16T10:33:44-05:00	it's just easier to make it a real journaling
+2026-04-16T10:35:00-05:00	well, now let's focus on zig (how its like to build a project) and all the wayland and river things
+2026-04-16T10:35:37-05:00	you maybe know, but isaac freud is the main developer of all libraries relationed to wayland on zig lang, that's why you maybe want to read all his devlogs
+2026-04-16T10:36:42-05:00	here, on zig, the "cmake" file is called build.zig, but it's way more powerful than just a txt file, because it can evaluate things such as scanning for wayland libraries on the local system
+2026-04-16T10:37:15-05:00	im rn looking for examples to get a guidance, not just of river-window-management protcol, but how to build a cool project on zig
+2026-04-16T10:38:02-05:00	i already created the flake, so in that topic of being declarative, reproducible and reliable we are ok
+2026-04-16T10:40:19-05:00	im gonna spend these hours on looking at the codebase of some projects, indeed im gonna share every link of those. i know there are more complex project than others, that's why i must review all of them
