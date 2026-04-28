@@ -4,3 +4,5 @@
 I encourage using `direnv` and `nix` (with or without flakes) to get a better develpment experience.
 
 I replaced `JOURNAL.md` for `journal.txt`, a twtxt format file.
+
+![](https://media1.tenor.com/m/YP1tkjvqTs8AAAAd/project-hail-mary-project-hail-mary-rocky.gif)
