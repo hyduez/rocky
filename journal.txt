@@ -9,3 +9,7 @@
 2026-04-16T10:37:15-05:00	im rn looking for examples to get a guidance, not just of river-window-management protcol, but how to build a cool project on zig
 2026-04-16T10:38:02-05:00	i already created the flake, so in that topic of being declarative, reproducible and reliable we are ok
 2026-04-16T10:40:19-05:00	im gonna spend these hours on looking at the codebase of some projects, indeed im gonna share every link of those. i know there are more complex project than others, that's why i must review all of them
+2026-04-16T15:11:10-05:00	tl;dr (https://isaacfreund.com/blog/river-window-management/): the most important info you can get of this article if how wayland compositor are usually structured (combining these threes: display server, compositor and window manager) and how river tries to low the barrier to people can write their own wms
+2026-04-16T15:12:28-05:00	in a few words, a display server is who sends a receive every buffer from the kernel, then the compositor is who combine every message from the windows and the window manager, well, it has two divisions: manage (communication) and render, that's our primarly goal here
+2026-04-17T21:53:21-05:00	paulov	test
+2026-04-28T01:06:10-05:00	paulov	im alive btw, im gonna work on this project this week, i was sick, srry
